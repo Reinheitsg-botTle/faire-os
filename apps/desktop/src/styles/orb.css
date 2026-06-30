@@ -1,0 +1,45 @@
+.orb{
+
+position:fixed;
+
+right:40px;
+
+bottom:40px;
+
+width:72px;
+
+height:72px;
+
+border:none;
+
+border-radius:50%;
+
+cursor:pointer;
+
+font-size:32px;
+
+color:white;
+
+background:
+radial-gradient(circle,
+#d9b3ff 0%,
+#8a2be2 55%,
+#4b0082 100%);
+
+box-shadow:
+
+0 0 25px #8a2be2,
+
+0 0 60px #8a2be2,
+
+0 0 120px #8a2be2;
+
+transition:.25s;
+
+}
+
+.orb:hover{
+
+transform:scale(1.08);
+
+}
