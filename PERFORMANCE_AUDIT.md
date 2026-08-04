@@ -24,6 +24,14 @@ Testing should record:
 - Commit SHA
 - Test date
 
+## Measurement procedure
+
+1. Record the exact route or user flow under test.
+2. Use the same measurement tool and version for baseline and follow-up tests.
+3. Run each test five times with identical network and CPU settings.
+4. Report the median result for each metric.
+5. Note failed or discarded runs and explain why they were excluded.
+
 ## Baseline
 
 Baseline measurements have not yet been recorded.
