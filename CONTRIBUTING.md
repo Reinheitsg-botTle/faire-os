@@ -1,1 +1,7 @@
-Please watch for updates. 27 June 2026.
+## Tasks 
+
+> Code Review
+
+> Test on local device 
+
+> Confirm WFM with evidence please.
